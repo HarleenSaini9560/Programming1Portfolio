@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Harleen Saini's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/HarleenSaini9560/Programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
